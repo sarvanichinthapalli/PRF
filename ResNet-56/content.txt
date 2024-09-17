@@ -1,1 +1,2 @@
-
+Run partial_clustering.py by adjusting the hyperparameters as required.
+The PRF logic of Filter-Wise and Cluster-Wise pruning are present in the file resnet_network_prune.py
